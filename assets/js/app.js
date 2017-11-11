@@ -1,4 +1,6 @@
 //Función del botón y creando div de comentarios 
+var btn = document.getElementById('btn');
+
 btn.addEventListener('click', function(){
 	var comments = document.getElementById('comment').value;
 	
@@ -56,6 +58,19 @@ function counter(){
 		}
 	}
 }
+
+//Función para que le textarea crezca de acuerdo el tamaño del texto
+function initial(){
+	numbers = 140;
+	cont = 0;
+
+	document.getElementById('contador').innerHTML = numbers; 
+	document.getElementById("btn").disabled = true; 
+	document.getElementById('btn').setAttribute('class', 'btn');
+	document.getElementById('contador').setAttribute('class', 'negro');
+	document.getElementById('comment').style.height = null;
+}
+
 
 
      

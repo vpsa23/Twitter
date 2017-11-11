@@ -77,10 +77,19 @@ header{
 
 textarea{
 	width: 550px;
-	height: 100px;
+	height: auto;
 	border: none;
 	border-bottom: 1.5px solid #5DADE2;
+	border-radius: 6px;
 	line-height: 10px;
+}
+
+.texto{
+	width: 550px;
+	outline: none;
+	min-height: 80px;
+	overflow: hidden;
+
 }
 
 #comment{
