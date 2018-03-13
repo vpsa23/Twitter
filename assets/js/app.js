@@ -1,3 +1,8 @@
+window.onload = function(){
+	
+}
+
+
 //Función del botón y creando div de comentarios 
 var btn = document.getElementById('btn');
 
@@ -70,10 +75,6 @@ function initial(){
 	document.getElementById('contador').setAttribute('class', 'negro');
 	document.getElementById('comment').style.height = null;
 }
-
-
-
-     
 
 
 
