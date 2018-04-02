@@ -1,4 +1,7 @@
-# [Demo](https://vpsa23.github.io/Twitter)
+# [Twitter](https://vpsa23.github.io/Twitter)
+
+Este reto esta basado en hacer una replica de Twitter donde puedas hacer tweets y ver la hora de cada tweet, también se pueden borrar dichos comentarios
+
 ![Diseño / Sketching](capturaPrincipal.PNG)
 
 # Twitter
