@@ -4,9 +4,6 @@ Este reto esta basado en hacer una replica de Twitter donde puedas hacer tweets 
 
 ![Diseño / Sketching](capturaPrincipal.PNG)
 
-# Twitter
- Esta red-social esta basada en hacer publicaciones y poder verlas.
- 
 ## Requerimientos Técnicos
 
   + Dom
