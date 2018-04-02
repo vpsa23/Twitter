@@ -10,5 +10,5 @@ Este reto esta basado en hacer una replica de Twitter donde puedas hacer tweets 
   + Html5
   + Css3
 
-# Desarrollado para
-## [Laboratoria](http://laboratoria.la/)
+### Desarrollado para
+#### [Laboratoria](http://laboratoria.la/)
